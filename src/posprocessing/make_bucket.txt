@@ -1,0 +1,5 @@
+# Exemplo de comando:
+# -p = seu ID do projeto
+# -c = classe (Standard)
+# -l = localização (São Paulo)
+gsutil mb -p SEU-ID-DE-PROJETO -c standard -l southamerica-east1 gs://nome-super-unico-do-meu-bucket
